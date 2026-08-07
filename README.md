@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
