@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0062-unique-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
