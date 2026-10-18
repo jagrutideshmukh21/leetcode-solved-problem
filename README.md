@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0001-two-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0062-unique-paths) |
+| [0746-min-cost-climbing-stairs](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
