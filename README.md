@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/0062-unique-paths) |
+| [2235-add-two-integers](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/2235-add-two-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jagrutideshmukh21/leetcode-solved-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
